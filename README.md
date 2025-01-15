@@ -1,5 +1,5 @@
 # Stock Trading Application <br/>
- ## Final Project - Web Development Tools and Methods ( INFO 6250 ) <br/>
+
 
 ### Project Description
 Online Stock Trader lets you trade, invest, track and review stocks using a single account. 
